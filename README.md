@@ -27,6 +27,7 @@ Bug reports, issues, and suggestions belong in the proper channels of the [Disco
   - [Fire Control](#fire-control)
   - [Reading the UI](#reading-the-ui)
   - [Firing](#firing)
+- [Range Card & Trajectory](#range-card--trajectory)
 - [Safety Notes](#safety-notes)
 
 ---
@@ -139,6 +140,15 @@ Reload with the default reload action. **The round is chambered when the reload 
 > [!TIP]
 > **In-Game Range Card:** access via the interactions on the **Trigger Guard**.
 
+**Ranging, in short.** Get the target's range, pick the charge whose band covers it (charge 0 reaches 187 to 542 m, charge 1 reaches 407 to 1,186 m), and lay the dial's index line on that range in the matching column. The card's tables give the resulting time of flight and max arc for clearing terrain.
+
+**Wind.** Crosswind pushes the round downwind. Hold into the wind by:
+
+`drift (m) = range ÷ 100 × 0.9 × (crosswind m/s ÷ 10)`
+
+At 800 m in a 10 m/s crosswind that is about 7 m of hold. Add roughly half again when firing above 1,200 mils, the longer time of flight gives the wind more to work with.
+
+**Dispersion.** Rounds land within roughly **0.8% of range** of the aim point. WP shares HE ballistics, so one card covers both cartridges.
 
 ## Safety Notes
 
