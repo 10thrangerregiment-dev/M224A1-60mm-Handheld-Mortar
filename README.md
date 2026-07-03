@@ -76,7 +76,7 @@ This is **not** a vanilla mortar. It is carried and assembled by a single person
 The M224A1 tube is classified as a **ROCKET LAUNCHER** and occupies that slot.
 The shells are classified as **GRENADES** and are found under that slot.
 
-> [!NOTE]
+> [!IMPORTANT]
 > The inventory item itself is **not** the fireable variant. Placing it on the ground does nothing; deploy it (below) to fire.
 
 ### Placement
