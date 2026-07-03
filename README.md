@@ -5,7 +5,7 @@
 **A lightweight, shoulder-carried, inventory-loaded mortar system built to move with the Forward Line of Troops. Direct-lay and organic indirect fires, one gunner, no crew.**
 
 [![Discord](https://img.shields.io/badge/Discord-Join%20Us-5865F2?logo=discord&logoColor=white)](https://discord.gg/PFxWc9W7zD)
-[![License](https://img.shields.io/badge/License-APL-blue)](LICENSE)
+[![License](https://img.shields.io/badge/License-APL--ND-blue)](https://www.bohemia.net/community/licenses/arma-public-license-nd)
 [![Game](https://img.shields.io/badge/Arma-Reforger-2d2d2d)](https://reforger.armaplatform.com/)
 
 *Thank you to everyone who assisted in making this possible.*
@@ -47,8 +47,8 @@ This is **not** a vanilla mortar. It is carried and assembled by a single person
 | Specification | Value |
 | --- | ---: |
 | Tube weight | 6 kg |
-| Minimum range | 70 m |
-| Maximum range | 400 m (charge 0) / 1,300 m (charge 1) |
+| Minimum range | 187 m (charge 0, max elevation) |
+| Maximum range | 542 m (charge 0) / 1,186 m (charge 1) |
 | Traverse | ±45° |
 | Elevation | 45° to 80° |
 | Reload time | 2 s |
@@ -64,7 +64,7 @@ This is **not** a vanilla mortar. It is carried and assembled by a single person
 | **Detonation** | Impact or Airburst | Impact only |
 | **Charge** | 0 / 1 | 0 / 1 |
 | **Weight** | 1.48 kg | 1.48 kg |
-| **Minimum safe distance** | *TBD* | *TBD* |
+| **Minimum safe distance** | 50 m | 50 m |
 | **Notes** | Airburst functions at 7 m above ground | Plume duration: 120 s |
 
 ---
@@ -121,7 +121,6 @@ The **elevation dial** sits just off-center in the bottom right. It reads **rang
   <img src="images/elevdialdiagram.png" width="380" alt="Elevation dial: charge 0 and charge 1 range columns, 25 m hashes, mils readout">
 </p>
 
-
 The UI **glows at night and under night vision**.
 
 ### Firing
@@ -129,12 +128,7 @@ The UI **glows at night and under night vision**.
 Dial onto your bearing and elevation, then fire with the default fire interaction.
 Reload with the default reload action. **The round is chambered when the reload sound ends.**
 
-At it's simplest, you can direct lay and bubble fire. For more advanced calculations, review the card below. 
-
 ---
-### Range Card
-
-
 
 ## Safety Notes
 
@@ -145,7 +139,7 @@ At it's simplest, you can direct lay and bubble fire. For more advanced calculat
 
 <div align="center">
 
-
+Built for the milsim community. Fire missions welcome.
 
 [Discord](https://discord.gg/PFxWc9W7zD)
 
