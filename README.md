@@ -2,7 +2,7 @@
 
 # M224A1 60mm Handheld Mortar
 
-**A lightweight, shoulder-carried, inventory-loaded mortar system built to move with the Forward Line of Troops. Direct-lay and organic indirect fires, one gunner, no crew.**
+**A lightweight, shoulder-carried, inventory-loaded mortar system built to move with the Forward Line of Troops.**
 
 [![Discord](https://img.shields.io/badge/Discord-Join%20Us-5865F2?logo=discord&logoColor=white)](https://discord.gg/PFxWc9W7zD)
 [![License](https://img.shields.io/badge/License-APL--ND-blue)](https://www.bohemia.net/community/licenses/arma-public-license-nd)
@@ -34,7 +34,7 @@ Bug reports, issues, and suggestions belong in the proper channels of the [Disco
 
 ## Overview
 
-This is **not** a vanilla mortar. It is carried and assembled by a single person from the launcher slot, loaded by the gunner without ever leaving the gun, and fired without a gunner's sight. Direct lay, the way a handheld 60 is meant to be run.
+This is **not** a vanilla mortar. It is carried and assembled by a single person from the launcher slot, loaded by the gunner without ever leaving the gun, and fired without a gunner's sight.
 
 - Carried in the **launcher slot**, placed via keybind using a live **ghost preview**
 - Once deployed, the M224 acts as a **turret**. Reload pulls directly from the gunner's inventory
@@ -93,7 +93,7 @@ Once placed, the mortar is emplaced and ready to enter. Pick it up or reposition
 
 ### Fire Control
 
-You've entered the mortar and are ready to fight the gun. The weapon starts **UNLOADED** by design. Once a round is chambered, the only way it comes out is downrange.
+You've entered the mortar and are ready to fire the gun. The weapon starts **UNLOADED** by design. Once a round is chambered, the only way it comes out is downrange.
 
 The default selection is:
 
@@ -140,7 +140,7 @@ Reload with the default reload action. **The round is chambered when the reload 
 > [!TIP]
 > **In-Game Range Card:** access via the interactions on the **Trigger Guard**.
 
-**Ranging, in short.** Get the target's range, pick the charge whose band covers it (charge 0 reaches 187 to 542 m, charge 1 reaches 407 to 1,186 m), and lay the dial's index line on that range in the matching column. The card's tables give the resulting time of flight and max arc for clearing terrain.
+**Ranging** Get the target's range, pick the charge whose band covers it (charge 0 reaches 187 to 542 m, charge 1 reaches 407 to 1,186 m), and lay the dial's index line on that range in the matching column. The card's tables give the resulting time of flight and max arc for clearing terrain/airspace avoidance.
 
 **Wind.** Crosswind pushes the round downwind. Hold into the wind by:
 
@@ -148,7 +148,7 @@ Reload with the default reload action. **The round is chambered when the reload 
 
 At 800 m in a 10 m/s crosswind that is about 7 m of hold. Add roughly half again when firing above 1,200 mils, the longer time of flight gives the wind more to work with.
 
-**Dispersion.** Rounds land within roughly **0.8% of range** of the aim point. WP shares HE ballistics, so one card covers both cartridges.
+**Dispersion.** Rounds land within roughly **0.8% of range** of the aim point. WP shares HE ballistics, so one card covers both shells.
 
 ## Safety Notes
 
