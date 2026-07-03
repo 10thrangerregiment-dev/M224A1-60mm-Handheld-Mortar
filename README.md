@@ -65,7 +65,7 @@ This is **not** a vanilla mortar. It is carried and assembled by a single person
 | **Charge** | 0 / 1 | 0 / 1 |
 | **Weight** | 1.48 kg | 1.48 kg |
 | **Minimum safe distance** | 50 m | 50 m |
-| **Notes** | Airburst functions at 7 m above ground | Plume duration: 120 s |
+| **Notes** | Airburst detonates at 7 m above ground | Plume duration: 120 s |
 
 ---
 
