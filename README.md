@@ -121,6 +121,7 @@ The **elevation dial** sits just off-center in the bottom right. It reads **rang
   <img src="images/elevdialdiagram.png" width="380" alt="Elevation dial: charge 0 and charge 1 range columns, 25 m hashes, mils readout">
 </p>
 
+
 The UI **glows at night and under night vision**.
 
 ### Firing
@@ -128,7 +129,12 @@ The UI **glows at night and under night vision**.
 Dial onto your bearing and elevation, then fire with the default fire interaction.
 Reload with the default reload action. **The round is chambered when the reload sound ends.**
 
+At it's simplest, you can direct lay and bubble fire. For more advanced calculations, review the card below. 
+
 ---
+### Range Card
+
+
 
 ## Safety Notes
 
@@ -139,7 +145,7 @@ Reload with the default reload action. **The round is chambered when the reload 
 
 <div align="center">
 
-Built for the milsim community. Fire missions welcome.
+
 
 [Discord](https://discord.gg/PFxWc9W7zD)
 
