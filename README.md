@@ -129,8 +129,19 @@ Dial onto your bearing and elevation, then fire with the default fire interactio
 Reload with the default reload action. **The round is chambered when the reload sound ends.**
 
 ---
+### Range Card & Trajectory
+
+
+<p align="center">
+  <img src="images/M224_RangeCard.png" width="380" alt="Range Card Display">
+</p>
+
+> [!TIP]
+> **In-Game Range Card:** access via the interactions on the **Trigger Guard**.
+
 
 ## Safety Notes
+
 
 > [!WARNING]
 > The muzzle has an overpressure damage radius of roughly **1 meter**. Keep nearby heads down, the assistant gunner's especially.
